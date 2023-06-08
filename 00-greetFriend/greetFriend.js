@@ -1,5 +1,5 @@
 function greetFriend(name) {
-  return "Greetings" + name;
+  return "Greetings " + name;
 }
 
 // Do not edit this line;
